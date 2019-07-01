@@ -5,11 +5,6 @@ The player is presented with a user options matrix and he/she can select the pos
 After every round, an output is shown on the screen with player and computer/opponent moves.
 At the end, the results of the game are displayed.
 
-User options are shown as below:
-LL | LM | LH
----+----+---
-ML | MM | MH
----+----+---
-HL | HM | HH
+
 
 
